@@ -1,4 +1,4 @@
 <h1>Datos Personales</h1>
 <p><strong>Nombre Completo:</strong> Arisla Shanesia Quintana Erinna 
 <p><strong>Fecha Nacimiento</strong> 
-<img src="\\DESKTOP-8MU01IP\Users\QUIMICAINF11\Downloads\asqe/asqe.jpg">
+<img src="https://scontent.fpty1-1.fna.fbcdn.net/v/t1.0-9/10418873_1464841397093125_1926179221586345497_n.jpg?_nc_cat=111&_nc_oc=AQkLoPu_4gMUX5D3MPus2ew7VJ0naXAo2b0sroEYiiPp3gTorEtW12vPzrTor3Xgdq0&_nc_ht=scontent.fpty1-1.fna&oh=6c3f6570a11c853f7b52ef549fc05196&oe=5E1AB469">
