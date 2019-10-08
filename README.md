@@ -10,7 +10,8 @@
 <p><strong>Escuelas:</strong><p>
 <em>Centro Educativo Milagrosa Santa Librada</em>
 <em>Escuela Bilingüe Saint John</em> 
-<p><strong>Universidad:</strong> Universidad Nacional de Panamá
+<p><strong>Universidad:</strong>
+<em>Universidad Nacional de Panamá</em>
 <h1>Redes Sociales</h1>
 <p><strong>Facebook:</strong>
 <p><strong>Instagram:</strong>  
