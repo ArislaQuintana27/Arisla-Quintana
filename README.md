@@ -16,6 +16,8 @@
   
 **Facebook:** [Arisla Quintana](https://www.facebook.com/arisla.quintana.94/)
 
-<p><strong>Instagram:</strong>  
-<p><strong>Youtube:</strong>
+**Instagram:** [arisss.27](https://www.instagram.com/arisss.27/)
+
+**Youtube:**[Arisla Quintana](https://www.youtube.com/channel/UCvwTH7Im7O5E2jjo2F_y-nA?view_as=subscriber)
+
 <img src="https://scontent.fpty1-1.fna.fbcdn.net/v/t1.0-9/72455957_434159647209138_7195351332234985472_n.jpg?_nc_cat=101&_nc_oc=AQkZ2NwNb471syJGMZFXw6GwZMCFPuR3tf81KSkFJP26WoTzxOnpqlsavVu8hSuuLho&_nc_ht=scontent.fpty1-1.fna&oh=3d258211bc7d7da6593542dfb7404607&oe=5DF2DF1F">
