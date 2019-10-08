@@ -14,7 +14,7 @@
 <P><em>- Universidad Nacional de Panamá</em>
 <h1>Redes Sociales</h1>
   
-**Facebook:** [Arisla Quintana](https://www.facebook.com/arisla.quintana.94/)
+<p><strong>Facebook:</strong><p> [Arisla Quintana](https://www.facebook.com/arisla.quintana.94/) </p>
 
 **Instagram:** [arisss.27](https://www.instagram.com/arisss.27/)
 
