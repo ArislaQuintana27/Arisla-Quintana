@@ -8,10 +8,10 @@
 <p><strong>Celular:</strong> 6782-9457
 <h1>Datos Educativos</h1>
 <p><strong>Escuelas:</strong><p>
-<p><em>Centro Educativo Milagrosa Santa Librada</em>
-<p><em>Escuela Bilingüe Saint John</em>
+<p><em>- Centro Educativo Milagrosa Santa Librada</em>
+<p><em>- Escuela Bilingüe Saint John</em>
 <p><strong>Universidad:</strong>
-<em>Universidad Nacional de Panamá</em>
+<P><em>- Universidad Nacional de Panamá</em>
 <h1>Redes Sociales</h1>
 <p><strong>Facebook:</strong>
 <p><strong>Instagram:</strong>  
