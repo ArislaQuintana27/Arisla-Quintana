@@ -1,5 +1,5 @@
 <h1>Datos Personales</h1>
-<p><strong>Formulario:</strong> <a href="https://arislaquintana27.github.io/Formulario-personal/">Formulario de datos</a>
+<p><strong><a href="https://arislaquintana27.github.io/Formulario-personal/">Formulario de datos</a></strong>
 <p><strong>Nombre Completo:</strong> Arisla Shanesia Quintana Erinna 
 <p><strong>Fecha Nacimiento:</strong> 27 de Julio del 1999
 <p><strong>Edad:</strong> 20 años
