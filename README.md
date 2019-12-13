@@ -17,4 +17,4 @@
 <p><strong>Instagram:</strong> <a href="https://www.instagram.com/arisss.27/">arisss.27</a>
 <p><strong>Youtube:</strong> <a href="https://www.youtube.com/channel/UCvwTH7Im7O5E2jjo2F_y-nA?view_as=subscriber">Arisla Quintana</a>
 <h2><p><strong><a href="https://arislaquintana27.github.io/Formulario.Personal/">Formulario de datos</a></strong></h2>
-<p><img src="https://scontent.fpty1-1.fna.fbcdn.net/v/t1.0-9/72455957_434159647209138_7195351332234985472_n.jpg?_nc_cat=101&_nc_oc=AQkZ2NwNb471syJGMZFXw6GwZMCFPuR3tf81KSkFJP26WoTzxOnpqlsavVu8hSuuLho&_nc_ht=scontent.fpty1-1.fna&oh=3d258211bc7d7da6593542dfb7404607&oe=5DF2DF1F">
+<p><img src="https://scontent.fpac2-1.fna.fbcdn.net/v/t1.0-0/p640x640/72545308_434159643875805_7991035148130844672_o.jpg?_nc_cat=111&_nc_ohc=6FSZX7QKBvIAQkEc_wW2jwPH5O_uVwfVUSt3chBCJ6wNHgmdp43e8Wo6A&_nc_ht=scontent.fpac2-1.fna&oh=057ab487360bebd84057c4c976c1a617&oe=5E7B8872">
