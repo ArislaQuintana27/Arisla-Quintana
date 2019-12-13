@@ -1,6 +1,4 @@
-<center>
 <p><img src="https://scontent.fpac2-1.fna.fbcdn.net/v/t1.0-0/p640x640/72545308_434159643875805_7991035148130844672_o.jpg?_nc_cat=111&_nc_ohc=6FSZX7QKBvIAQkEc_wW2jwPH5O_uVwfVUSt3chBCJ6wNHgmdp43e8Wo6A&_nc_ht=scontent.fpac2-1.fna&oh=057ab487360bebd84057c4c976c1a617&oe=5E7B8872" width="300" height="400"/>
- </center>
 <h1>Datos Personales</h1>
 <p><strong>Nombre Completo:</strong> Arisla Shanesia Quintana Erinna 
 <p><strong>Fecha Nacimiento:</strong> 27 de Julio del 1999
